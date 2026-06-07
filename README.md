@@ -1,6 +1,6 @@
 # 🌦️ Weather Trend Forecasting — Data Science Assessment
 
-**PM Accelerator · Data Scientist Assessment**
+* Data Scientist & AI/ML Model**
 
 A complete data science pipeline on the **Global Weather Repository** dataset to forecast weather trends. This project demonstrates data cleaning, exploratory data analysis, anomaly detection, time-series forecasting with multiple models, and unique geospatial/feature-importance analyses.
 
